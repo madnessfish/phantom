@@ -1,0 +1,30 @@
+gene,kind,complex,degree,specificity_frac_in_top_complex
+ACTB,candidate,—,23,0.348
+GAPDH,candidate,—,18,0.444
+HSPA8,candidate,—,17,0.471
+TCP1,member,Complex B — CCT/TRiC,17,0.412
+CCT7,member,Complex B — CCT/TRiC,16,0.438
+ACTR3,member,Complex A — Arp2/3,15,0.4
+CCT3,member,Complex B — CCT/TRiC,15,0.467
+CCT5,member,Complex B — CCT/TRiC,15,0.467
+CCT8,member,Complex B — CCT/TRiC,15,0.467
+EEF1A1,candidate,—,15,0.533
+HSP90AA1,candidate,—,15,0.533
+VCP,candidate,—,15,0.533
+CCT2,member,Complex B — CCT/TRiC,14,0.5
+CCT6A,member,Complex B — CCT/TRiC,14,0.5
+CCT4,member,Complex B — CCT/TRiC,13,0.538
+MCM7,member,Complex C — MCM,13,0.385
+UBC,candidate,—,13,0.462
+ACTR2,member,Complex A — Arp2/3,12,0.5
+YWHAZ,candidate,—,11,0.182
+ARPC1B,member,Complex A — Arp2/3,8,0.75
+ARPC5,member,Complex A — Arp2/3,8,0.75
+MCM3,member,Complex C — MCM,8,0.625
+ARPC2,member,Complex A — Arp2/3,7,0.857
+ARPC3,member,Complex A — Arp2/3,7,0.857
+ARPC4,member,Complex A — Arp2/3,7,0.857
+MCM2,member,Complex C — MCM,7,0.714
+MCM4,member,Complex C — MCM,6,0.833
+MCM5,member,Complex C — MCM,6,0.833
+MCM6,member,Complex C — MCM,6,0.833

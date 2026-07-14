@@ -1,0 +1,21 @@
+{
+  "predictor": "D-SCRIPT human_v1",
+  "model_file": "human_v1.sav",
+  "n_pairs": 858,
+  "n_labeled": 858,
+  "prevalence": 0.6049,
+  "spearman_yprob_deg": 0.6594,
+  "spearman_null_absmean": 0.0263,
+  "spearman_emp_p": 0.000999000999000999,
+  "auroc_yprob": 0.9439,
+  "auroc_degree": 0.9054,
+  "auroc_premium": 0.0385,
+  "aupr_yprob": 0.96,
+  "aupr_degree": 0.9358,
+  "overlapK": {
+    "5": 0,
+    "10": 0,
+    "20": 0,
+    "50": 0
+  }
+}

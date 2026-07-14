@@ -1,0 +1,88 @@
+complex,protein,naive_rank,naive_score,corrected_rank,corrected_score,is_frequent_flyer,is_curated_member,verdict
+Complex A,ACTB,1,6.73,8,0.0,True,False,"hypothesis only (interactor, not member)"
+Complex A,ACTR2,2,5.99,1,2.43,False,True,confirmed target
+Complex A,ACTR3,3,5.99,2,2.43,False,True,confirmed target
+Complex A,ARPC1B,4,5.99,3,2.43,False,True,confirmed target
+Complex A,ARPC2,5,5.99,4,2.43,False,True,confirmed target
+Complex A,ARPC3,6,5.99,5,2.43,False,True,confirmed target
+Complex A,ARPC4,7,5.99,6,2.43,False,True,confirmed target
+Complex A,ARPC5,8,5.99,7,2.43,False,True,confirmed target
+Complex A,HSPA8,9,1.21,19,0.0,True,False,deprioritized
+Complex A,TCP1,10,1.14,26,0.0,False,False,deprioritized
+Complex A,GAPDH,11,1.1,17,0.0,True,False,deprioritized
+Complex A,YWHAZ,12,1.0,29,0.0,True,False,deprioritized
+Complex A,CCT8,13,0.85,15,0.0,False,False,deprioritized
+Complex A,CCT5,14,0.66,12,0.0,False,False,deprioritized
+Complex A,CCT2,15,0.6,9,0.0,False,False,deprioritized
+Complex A,CCT3,16,0.6,10,0.0,False,False,deprioritized
+Complex A,CCT7,17,0.43,14,0.0,False,False,deprioritized
+Complex A,CCT6A,18,0.41,13,0.0,False,False,deprioritized
+Complex A,CCT4,19,0,11,0.0,False,False,deprioritized
+Complex A,EEF1A1,20,0,16,0.0,True,False,deprioritized
+Complex A,HSP90AA1,21,0,18,0.0,True,False,deprioritized
+Complex A,MCM2,22,0,20,0.0,False,False,deprioritized
+Complex A,MCM3,23,0,21,0.0,False,False,deprioritized
+Complex A,MCM4,24,0,22,0.0,False,False,deprioritized
+Complex A,MCM5,25,0,23,0.0,False,False,deprioritized
+Complex A,MCM6,26,0,24,0.0,False,False,deprioritized
+Complex A,MCM7,27,0,25,0.0,False,False,deprioritized
+Complex A,UBC,28,0,27,0.0,True,False,deprioritized
+Complex A,VCP,29,0,28,0.0,True,False,deprioritized
+Complex B,HSPA8,1,7.33,1,2.97,True,False,"hypothesis only (interactor, not member)"
+Complex B,CCT2,2,6.99,2,2.84,False,True,confirmed target
+Complex B,CCT3,3,6.99,3,2.84,False,True,confirmed target
+Complex B,CCT4,4,6.99,4,2.84,False,True,confirmed target
+Complex B,CCT5,5,6.99,5,2.84,False,True,confirmed target
+Complex B,CCT6A,6,6.99,6,2.84,False,True,confirmed target
+Complex B,CCT7,7,6.99,7,2.84,False,True,confirmed target
+Complex B,CCT8,8,6.99,8,2.84,False,True,confirmed target
+Complex B,TCP1,9,6.99,9,2.84,False,True,"member, weak network signal"
+Complex B,HSP90AA1,10,6.71,10,2.72,True,False,deprioritized
+Complex B,ACTB,11,6.16,13,0.0,True,False,deprioritized
+Complex B,EEF1A1,12,5.28,11,0.66,True,False,deprioritized
+Complex B,VCP,13,4.83,12,0.59,True,False,deprioritized
+Complex B,GAPDH,14,4.57,21,0.0,True,False,deprioritized
+Complex B,ACTR3,15,3.03,15,0.0,False,False,deprioritized
+Complex B,MCM7,16,1.33,27,0.0,False,False,deprioritized
+Complex B,ACTR2,17,1.07,14,0.0,False,False,deprioritized
+Complex B,ARPC1B,18,0.6,16,0.0,False,False,deprioritized
+Complex B,MCM3,19,0.53,23,0.0,False,False,deprioritized
+Complex B,YWHAZ,20,0.43,29,0.0,True,False,deprioritized
+Complex B,MCM2,21,0.42,22,0.0,False,False,deprioritized
+Complex B,ARPC2,22,0,17,0.0,False,False,deprioritized
+Complex B,ARPC3,23,0,18,0.0,False,False,deprioritized
+Complex B,ARPC4,24,0,19,0.0,False,False,deprioritized
+Complex B,ARPC5,25,0,20,0.0,False,False,deprioritized
+Complex B,MCM4,26,0,24,0.0,False,False,deprioritized
+Complex B,MCM5,27,0,25,0.0,False,False,deprioritized
+Complex B,MCM6,28,0,26,0.0,False,False,deprioritized
+Complex B,UBC,29,0,28,0.0,True,False,deprioritized
+Complex C,MCM2,1,5.0,1,2.03,False,True,confirmed target
+Complex C,MCM3,2,5.0,2,2.03,False,True,confirmed target
+Complex C,MCM4,3,5.0,3,2.03,False,True,confirmed target
+Complex C,MCM5,4,5.0,4,2.03,False,True,confirmed target
+Complex C,MCM6,5,5.0,5,2.03,False,True,confirmed target
+Complex C,MCM7,6,5.0,6,2.03,False,True,confirmed target
+Complex C,UBC,7,3.15,27,0.0,True,False,deprioritized
+Complex C,CCT7,8,0.94,20,0.0,False,False,deprioritized
+Complex C,VCP,9,0.57,28,0.0,True,False,deprioritized
+Complex C,CCT3,10,0.47,16,0.0,False,False,deprioritized
+Complex C,ACTB,11,0.46,7,0.0,True,False,"hypothesis only (interactor, not member)"
+Complex C,TCP1,12,0.46,26,0.0,False,False,deprioritized
+Complex C,YWHAZ,13,0.44,29,0.0,True,False,deprioritized
+Complex C,EEF1A1,14,0.44,22,0.0,True,False,deprioritized
+Complex C,GAPDH,15,0.42,23,0.0,True,False,deprioritized
+Complex C,CCT5,16,0.42,18,0.0,False,False,deprioritized
+Complex C,ACTR2,17,0,8,0.0,False,False,"hypothesis only (interactor, not member)"
+Complex C,ACTR3,18,0,9,0.0,False,False,deprioritized
+Complex C,ARPC1B,19,0,10,0.0,False,False,deprioritized
+Complex C,ARPC2,20,0,11,0.0,False,False,deprioritized
+Complex C,ARPC3,21,0,12,0.0,False,False,deprioritized
+Complex C,ARPC4,22,0,13,0.0,False,False,deprioritized
+Complex C,ARPC5,23,0,14,0.0,False,False,deprioritized
+Complex C,CCT2,24,0,15,0.0,False,False,deprioritized
+Complex C,CCT4,25,0,17,0.0,False,False,deprioritized
+Complex C,CCT6A,26,0,19,0.0,False,False,deprioritized
+Complex C,CCT8,27,0,21,0.0,False,False,deprioritized
+Complex C,HSP90AA1,28,0,24,0.0,True,False,deprioritized
+Complex C,HSPA8,29,0,25,0.0,True,False,deprioritized
