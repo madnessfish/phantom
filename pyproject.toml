@@ -1,0 +1,23 @@
+[project]
+name = "phantom-audit"
+version = "0.1.0"
+description = "PHANTOM: degree-bias audit for protein-protein interaction predictors, as an MCP server"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = [
+  "mcp>=1.2",
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "scipy>=1.10",
+  "scikit-learn>=1.3",
+  "networkx>=3.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.scripts]
+phantom-mcp = "phantom_audit.server:main"
+
+[tool.setuptools]
+packages = ["phantom_audit"]

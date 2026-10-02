@@ -19,3 +19,6 @@ analysis/fig_degree_leakage.png
 # OS / editor
 .DS_Store
 *.swp
+
+# pytest
+.pytest_cache/

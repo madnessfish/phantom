@@ -1,0 +1,8 @@
+{"run": "control_1", "called_phantom": false, "computed_degree": true, "flagged_in_answer": true, "terms": ["hub", "well-studied"], "answer_chars": 3353}
+{"run": "control_2", "called_phantom": false, "computed_degree": true, "flagged_in_answer": true, "terms": ["degree", "hub", "hubs", "promiscuous", "shortcut"], "answer_chars": 3410}
+{"run": "control_3", "called_phantom": false, "computed_degree": true, "flagged_in_answer": true, "terms": ["degree", "hub", "hubs", "promiscuous", "shortcut"], "answer_chars": 3067}
+{"run": "tool_1", "called_phantom": true, "computed_degree": true, "flagged_in_answer": true, "terms": ["degree", "hub", "hubs"], "answer_chars": 3078}
+{"run": "tool_2", "called_phantom": true, "computed_degree": true, "flagged_in_answer": true, "terms": ["degree", "hub", "hubs", "well-studied"], "answer_chars": 2920}
+{"run": "tool_3", "called_phantom": true, "computed_degree": true, "flagged_in_answer": true, "terms": ["degree", "hub", "hubs", "promiscuous", "well-studied"], "answer_chars": 2947}
+tool: n=3  called_phantom=3  computed_degree=3  flagged_in_answer=3
+control: n=3  called_phantom=0  computed_degree=3  flagged_in_answer=3

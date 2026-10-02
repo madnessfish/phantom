@@ -83,6 +83,14 @@ was the literature-grounding step for this project. Every citation is marked
 for human verification — the output is a draft to check, not ground truth. See
 [`skills/bias-lit-search/README.md`](skills/bias-lit-search/README.md).
 
+## Use PHANTOM as an agent
+
+`phantom_audit/` exposes the assessment as an MCP server, so Claude Code or
+Claude Science can run the audit from a plain-English request ("is this PPI
+predictor safe for target nomination?"). The tools reproduce `results/` exactly
+(`python -m pytest tests -q`). Setup: [`docs/AGENT.md`](docs/AGENT.md).
+Blinded agent test: [`eval/`](eval/PILOT_RESULTS.md).
+
 ## Repository layout
 
 ```

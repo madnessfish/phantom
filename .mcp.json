@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "phantom": {
+      "command": "python",
+      "args": ["-m", "phantom_audit.server"],
+      "cwd": "."
+    }
+  }
+}
